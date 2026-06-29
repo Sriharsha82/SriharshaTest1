@@ -2,4 +2,5 @@
 
 This is a new entry
 
+This is Developer2 entry
 This is Developer 1 entry
